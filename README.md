@@ -145,9 +145,11 @@ npm install      //to install the required dependencies if something is missing
 npm run dev     //these both commands should be executed in the front end directory then only it will start the server
 ```
 
-- If you're wondering what is the steps which i've followed to created the front-end from starting then i'm going to include follwing pics for your reference as it will give you guys an
-  idea as how to create a front end project using VITE tool, but again saying this is only for reference, if you've downloded the source code then you don't need to do it from starting 
-  as all the required resources are there in the downloaded project directory
+## Important Note(Optional/for reference only)
+
+If you're wondering what is the steps which i've followed to created the front-end from starting then i'm going to include follwing pics for your reference as it will give you guys an
+idea as how to create a front end project using VITE tool, but again saying this is only for reference, if you've downloded the source code then you don't need to do it from starting 
+as all the required resources are there in the downloaded project directory
   
 
  ![image](https://github.com/user-attachments/assets/426afbf5-4f05-444c-9702-ae712434a708)
