@@ -131,8 +131,10 @@ code in the JSON Format and after that SEND the request using the POST Method:
 ### Step 3: Font-End Setup (Vite + React)
 
 - So for running the Front-End setup one thing which should be installed in your system is Node.js before running this front-end part so open the front-end part of the application named
-  as ```email-writer-assistant-frontend``` which will be under the root folder named as ```AI-Email-Writer-Assistant``` in VS code editor as it will be easy to install or run any command or you can
-  also use your system **`CMD`** to run the server before that install the dependencies as I've used **`VITE`** and **`material-ui`** tool to create the front end, this is basically a build tool for front end
+  as ```email-writer-assistant-frontend``` which will be under the root folder named as ```AI-Email-Writer-Assistant``` in VS code editor as it will be easy to install or run any 
+  command or you can
+  also use your system **`CMD`** to run the server before that install the dependencies as I've used **`VITE`** and **`material-ui`** tool to create the front end, this is basically a 
+  build tool for front end
   that can be used for fast development of frontend.
 
 so open the front-end part in VS code or in CMD and run the follwoing command one by one
@@ -144,8 +146,8 @@ npm run dev     //these both commands should be executed in the front end direct
 ```
 
 - If you're wondering what is the steps which i've followed to created the front-end from starting then i'm going to include follwing pics for your reference as it will give you guys an
-  idea as how to create a front end project using VITE tool, but again saying this is only for reference, if you've downloded the source code then you don't need to do it from starting as
-  all the required resources are there in the downloaded project directory
+  idea as how to create a front end project using VITE tool, but again saying this is only for reference, if you've downloded the source code then you don't need to do it from starting 
+  as all the required resources are there in the downloaded project directory
   
 
  ![image](https://github.com/user-attachments/assets/426afbf5-4f05-444c-9702-ae712434a708)
